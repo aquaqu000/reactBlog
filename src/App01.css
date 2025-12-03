@@ -1,0 +1,23 @@
+.black-nav{
+  background: black;
+  padding: 20px;
+  color: #fff;
+  width: 100%;
+}
+.list{
+  border-bottom: 1px solid #ddd;
+  padding:20px;
+}
+.modal{
+  width: 100%;
+  padding: 20px;
+  margin-top: 20px;
+  background: #eee;
+}
+button{
+  padding: 10px;
+  margin-top: 20px;
+  background: black;
+  color: #fff;
+  margin-left: 20px;
+}
